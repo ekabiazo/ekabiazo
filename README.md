@@ -1,12 +1,14 @@
-## Hi there 👋
-# Hello, I'm Edem Kojo Awunyo 👋  
-<a href="https://linkedin.com/in/edemawunyo6811"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+## Hi there 👋  
+# I'm Edem Kojo Awunyo  
+<a href="https://linkedin.com/in/edemawunyo6811">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## 👨🏽‍💻 About Me  
-Proactive Virtual Assistant turned Cybersecurity Analyst with 3+ years in tech support, compliance, and remote coordination. I bring a unique mix of technical troubleshooting, CRM mastery, and IT audit skills across diverse platforms. Currently transitioning into cybersecurity with real-world experience in GRC, compliance audits, and hands-on security labs.
+I'm a proactive Virtual Assistant turned Cybersecurity Analyst with over 3 years of experience in tech support, compliance, and remote coordination. I bring a unique blend of technical troubleshooting, CRM management, and IT audit skills across diverse platforms. Currently transitioning into cybersecurity, I have hands-on experience in GRC, compliance audits, and security labs focused on SOC automation.
 
 ## 🎯 Objective  
-To secure a role as a **Junior Security Analyst** or **SOC Tier 1 Analyst** where I can apply my experience in remote technical support, cybersecurity auditing, and compliance while continuing to upskill in threat detection, SIEM, and SOAR technologies.
+To obtain a position as a **Junior Security Analyst** or **SOC Tier 1 Analyst** where I can apply my experience in remote technical support, cybersecurity auditing, and compliance—while expanding my skills in threat detection, SIEM, and SOAR technologies.
 
 ## 🛠️ Skills
 
@@ -30,7 +32,7 @@ To secure a role as a **Junior Security Analyst** or **SOC Tier 1 Analyst** wher
   <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=slack&logoColor=white" />
 </div>
 
-### 🔍 Security Lab Tools (in progress)
+### 🔍 Security Lab Tools (In Progress)
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/-TheHive-FBCA04?&style=for-the-badge&logoColor=black" />
@@ -41,7 +43,7 @@ To secure a role as a **Junior Security Analyst** or **SOC Tier 1 Analyst** wher
 <div>
   <img src="https://img.shields.io/badge/-Cybersecurity_GRC_Analyst-F83753?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Certified_Data_Labeling_Specialist-00BFFF?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity(CC)-FFA500?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Certified_in_Cybersecurity_(CC)-FFA500?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-Introduction_to_ITIL_V4-In_Progress-yellow?&style=for-the-badge&logoColor=black" />
 </div>
 
@@ -50,22 +52,19 @@ To secure a role as a **Junior Security Analyst** or **SOC Tier 1 Analyst** wher
 - ✅ **GRC Audit Report Template** – SOX/HIPAA/ISO-based assessments and remediation  
 - 🧪 **SOC Automation Lab** – Case management and alert triage using TheHive & Shuffle  
 - 🔧 **Remote Support Toolkit** – Scripts and workflows for resolving IT support tickets  
-- 🏷️ **ML Labeling Tracker** – Managed 50,000+ annotations with 98% QA accuracy
+- 🏷️ **ML Labeling Tracker** – Managed 50,000+ annotations with 98% QA accuracy  
 
----
+## 🌍 Status & Availability
+<div>
+  <img src="https://img.shields.io/badge/Location-Ghana_%28GMT%2B0%29-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Availability-20%2B_hrs%2Fweek-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelance-Open_for_Projects-orange?style=for-the-badge" />
+</div>
 
+## 🔖 Additional Badges
 
-<!--
-**ekabiazo/ekabiazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰 Tech Stack
+<img src="https://img.shields.io/badge/Tools-Linux%20%7C%20Docker%20%7C%20n8n-informational?style=for-the-badge" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Soft Skills
+<img src="https://img.shields.io/badge/Soft_Skills-Time_Management_|_Detail_Oriented-lightgrey?style=for-the-badge" />
